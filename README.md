@@ -1,7 +1,7 @@
 
 [README.md](https://github.com/user-attachments/files/22920383/README.md)
 
-Sentimental analysis
+## SENTIMENT ANALISYIS
 
 
 
@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ## Appendix
 
-Any additional information goes here
+codes for sentiment analisis and other things
 
 
 ## Installation
